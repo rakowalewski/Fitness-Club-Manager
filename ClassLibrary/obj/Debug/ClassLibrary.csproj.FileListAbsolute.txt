@@ -1,0 +1,6 @@
+E:\Rafał\Programowanie\Hercules\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Rafał\Programowanie\Hercules\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Rafał\Programowanie\Hercules\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Rafał\Programowanie\Hercules\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Rafał\Programowanie\Hercules\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Rafał\Programowanie\Hercules\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hercules", "Hercules\Hercules.csproj", "{11E817EE-2962-4AFF-A26E-FE6504A9D11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{ADDA3ED8-6104-4081-A3C7-FE818EDAB8FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoClient", "PhotoClient", "{44B47541-7818-46B6-8AFA-FC778192FB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E817EE-2962-4AFF-A26E-FE6504A9D11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E817EE-2962-4AFF-A26E-FE6504A9D11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E817EE-2962-4AFF-A26E-FE6504A9D11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E817EE-2962-4AFF-A26E-FE6504A9D11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDA3ED8-6104-4081-A3C7-FE818EDAB8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDA3ED8-6104-4081-A3C7-FE818EDAB8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDA3ED8-6104-4081-A3C7-FE818EDAB8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDA3ED8-6104-4081-A3C7-FE818EDAB8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CF1DD4-CB83-49E7-8A4E-89B273546CAE}
+	EndGlobalSection
+EndGlobal
